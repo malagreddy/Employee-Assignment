@@ -1,5 +1,6 @@
 package employee;
 
+// program to calculate the salary details and print the salary information of the employee
 import java.util.Scanner;
 
 public class EmployeeMain {
